@@ -1,5 +1,19 @@
 # Artistic Canvas
 
+![Application Screenshot](screenshot.png)
+
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Setup and Installation](#setup-and-installation)
+- [User Guide](#user-guide)
+- [Code Documentation](#code-documentation)
+- [Keyboard Shortcuts](#keyboard-shortcuts)
+- [Arial.ttf](#arialttf)
+- [License](#license)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
 ## Overview
 
 Artistic Canvas is a simple drawing application built using the SFML library. It allows users to create, manipulate, and save shapes on a canvas. The application supports circles, rectangles, triangles, and an eraser tool, providing a straightforward graphical interface for artistic creation.
@@ -176,3 +190,6 @@ Artistic Canvas is a simple drawing application built using the SFML library. It
 ## Arial.ttf
 
 The `arial.ttf` font file is included in the repository to ensure consistent text rendering across different systems. Make sure `arial.ttf` is in the project directory to avoid font issues. Modify the code if you prefer using a different font.
+## Contact
+
+For questions or support, please contact [anuppatil.asp29@gmail.com](mailto:anuppatil.asp29@gmail.com).
